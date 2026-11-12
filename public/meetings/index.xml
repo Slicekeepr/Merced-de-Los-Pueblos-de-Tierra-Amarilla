@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meeting Agendas &amp; Minutes on My New Hugo Project</title>
+    <link>http://localhost:1313/meetings/</link>
+    <description>Recent content in Meeting Agendas &amp; Minutes on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 17:14:06 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 12 09 Regular Meeting</title>
+      <link>http://localhost:1313/meetings/2026-12-09-regular-meeting/</link>
+      <pubDate>Wed, 11 Nov 2026 17:14:06 -0700</pubDate>
+      <guid>http://localhost:1313/meetings/2026-12-09-regular-meeting/</guid>
+      <description>Public notice, agenda, and minutes for the Merced de Los Pueblos de Tierra Amarilla.</description>
+    </item>
+    <item>
+      <title>November 2026 Regular Board Meeting</title>
+      <link>http://localhost:1313/meetings/2026-11-11-regular-meeting/</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meetings/2026-11-11-regular-meeting/</guid>
+      <description>Public notice, agenda, and minutes for the November 11, 2026 regular board meeting.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/meetings/2026-11-15-regular-meeting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meetings/2026-11-15-regular-meeting/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;November 15, 2026 Board Meeting&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-11-15T13:00:00-07:00&lt;/p&gt;
+&lt;p&gt;summary: &amp;ldquo;Public notice, agenda, and minutes for the November 15, 2026 board meeting.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;## Public Notice&lt;/p&gt;
+&lt;p&gt;Notice is hereby given that the Board of Trustees of the **Merced de Los Pueblos de Tierra Amarilla** will hold a public meeting in compliance with the New Mexico Open Meetings Act.&lt;/p&gt;
+&lt;p&gt;* **Date:** Sunday, November 15, 2026&lt;/p&gt;
+&lt;p&gt;* **Time:** 1:00 PM MST&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

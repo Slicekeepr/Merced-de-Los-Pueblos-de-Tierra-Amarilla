@@ -1,7 +1,7 @@
-﻿---
-title: "November 15, 2026 Board Meeting"
+---
+title: November 15, 2026 Board Meeting
 date: 2026-11-15T13:00:00-07:00
-summary: "Public notice, agenda, and minutes for the November 15, 2026 board meeting."
+summary: Public notice, agenda, and minutes for the November 15, 2026 board meeting.
 draft: false
 ---
 

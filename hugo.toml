@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://merced-de-los-pueblos-de-tierra-amarilla.pages.dev/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
